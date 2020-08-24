@@ -10,7 +10,7 @@ def main():
         elif roll == 6:
             print(f'You rolled a {roll}! Critical Success!')
         else:
-            print(f'You rolled aa {roll}')
+            print(f'You rolled a {roll}')
     print(f'You have rolled a total of {dice_sum}')
 if __name__== "__main__":
     main()
